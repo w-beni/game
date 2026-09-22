@@ -1,2 +1,2 @@
 # game
-IT englis project
+IT english project
