@@ -2,5 +2,5 @@
 IT english project 
 
 # Contributors:
-- Villányi Benedek
-- Vöröss Bálint
+- Villányi Benedek (graphics, sound design, logic)
+- Vöröss Bálint (coding, github management, GML)
