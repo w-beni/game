@@ -19,8 +19,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"Rehab Monster",
-    "path":"Rehab Monster.yyp",
+    "name":"Room",
+    "path":"folders/Room.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

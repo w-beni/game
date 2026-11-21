@@ -2,8 +2,8 @@ speed = 0;
 hspeed = 0;
 vspeed = 0;
 
-if place_meeting(x, y, asset_tiles){
-	vspeed = 0
+if place_meeting(x, y, (1)){			// valami valami Tiles Colmask 
+	vspeed = 0 
 }
 
 if (keyboard_check(ord("D")))

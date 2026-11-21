@@ -12,8 +12,8 @@
   "name":"O_player",
   "overriddenProperties":[],
   "parent":{
-    "name":"Rehab Monster",
-    "path":"Rehab Monster.yyp",
+    "name":"Object",
+    "path":"folders/Object.yy",
   },
   "parentObjectId":null,
   "persistent":false,

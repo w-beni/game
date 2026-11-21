@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Boulder_1",
+  "%Name":"S_Boulder_1",
   "bboxMode":0,
   "bbox_bottom":53,
   "bbox_left":10,
@@ -21,19 +21,19 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"b17ed74b-5617-4a9a-af76-f3e2290b40af","blendMode":0,"displayName":"default","isLocked":false,"name":"b17ed74b-5617-4a9a-af76-f3e2290b40af","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Boulder_1",
+  "name":"S_Boulder_1",
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Rehab Monster",
-    "path":"Rehab Monster.yyp",
+    "name":"Sprite",
+    "path":"folders/Sprite.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Boulder_1",
+    "%Name":"S_Boulder_1",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Boulder_1",
+    "name":"S_Boulder_1",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,7 +69,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"98a791d2-7304-438c-b19b-61c78b345b98","path":"sprites/Boulder_1/Boulder_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"98a791d2-7304-438c-b19b-61c78b345b98","path":"sprites/S_Boulder_1/S_Boulder_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"54aed210-c672-4994-9b67-3a2a2b884df3","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

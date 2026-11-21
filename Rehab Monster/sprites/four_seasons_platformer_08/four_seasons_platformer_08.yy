@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Rehab Monster",
-    "path":"Rehab Monster.yyp",
+    "name":"Tile",
+    "path":"folders/Tile.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
