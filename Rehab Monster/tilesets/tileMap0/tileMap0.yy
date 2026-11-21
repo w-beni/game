@@ -1,13 +1,13 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"TileSet1",
+  "%Name":"tileMap0",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"TileSet1",
+  "name":"tileMap0",
   "out_columns":15,
   "out_tilehborder":2,
   "out_tilevborder":2,
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"four_seasons_platformer_08",
-    "path":"sprites/four_seasons_platformer_08/four_seasons_platformer_08.yy",
+    "name":"tileSet0",
+    "path":"sprites/tileSet0/tileSet0.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
